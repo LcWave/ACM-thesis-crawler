@@ -9,7 +9,7 @@ selenium
 ## 1.下载浏览器驱动
 [下载地址](http://chromedriver.storage.googleapis.com/index.html)
 
-需要下载与Chrome浏览器版本匹配
+需要下载与Chrome浏览器版本匹配的驱动
 ## 2.修改项
 ### 1）修改驱动位置
 ![image](https://user-images.githubusercontent.com/86061264/170816770-f2bd42a8-bf84-4462-9f53-669933d12738.png)
