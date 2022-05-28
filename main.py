@@ -11,7 +11,7 @@ import re
 driver = webdriver.Chrome('C:\Program Files\Google\Chrome\Application\chromedriver.exe')
 
 # 创建文件夹
-main = r"E:\Blockchain Lab\会议论文\CCS\2021"
+main = r"E:\test"
 if not os.path.exists(main):
     os.mkdir(main)
 
