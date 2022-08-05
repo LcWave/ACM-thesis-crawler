@@ -1,5 +1,5 @@
 # ACM-thesis-crawler
-一个简单的用于批量爬取ACM论文的爬虫
+一个简单的用于批量下载ACM论文的爬虫
 # 环境
 ```bash
 python 3.6
