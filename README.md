@@ -37,6 +37,6 @@ selenium
 ![image](https://user-images.githubusercontent.com/86061264/170817524-12f810ee-8bee-418f-81c3-b38951b67d2d.png)
 
 ### ！！！注意
-由于在爬取时没有将pdf链接与论文名字打包在一起（有时间会改），需要根据实际情况修改以下片段
+由于在爬取时没有将pdf链接与论文名字打包在一起，需要根据实际情况修改以下片段
 
 ![image](https://user-images.githubusercontent.com/86061264/170817657-7908e6eb-18fe-430e-a8a0-9cd8abfc17ef.png)
